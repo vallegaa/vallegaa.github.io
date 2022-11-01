@@ -1,8 +1,8 @@
-# Hosting and Formatting a Resume using Markdown, Visual Studio Code, Github Pages, and Jekyll
+# Hosting and Formatting a Resume using Markdown, Visual Studio Code, GitHub Pages, and Jekyll
 
 ## Purpose
 
-The purpose of this README is to describe the practical steps of hosting and formatting a resume using Markdown, Visual Studio Code, Github Pages, and Jekyll described in Andrew Etter's book, *Modern Technical Writing: An Introduction to Software Documentation*. The practical steps will relate back to the general principles of his book which are particularly essential to
+The purpose of this README is to describe the practical steps of hosting and formatting a resume using Markdown, Visual Studio Code, GitHub Pages, and Jekyll described in Andrew Etter's book, *Modern Technical Writing: An Introduction to Software Documentation*. The practical steps will relate back to the general principles of his book which are particularly essential to
 computer science students coming into the software industry. These general principles outline how to write precise documentation that achieves the audience's goal.
 
 ## Prerequisites:
@@ -10,7 +10,7 @@ computer science students coming into the software industry. These general princ
 ### Resume
 To begin with, a resume formatted in Markdown is needed. Markdown is a lightweight markup language useful when creating static sites. These types of languages allow for "the natural separation of content and style" (Etter, 2016, p. 20). Furthermore, there is no steep learning curve with these languages as they are "human-readable" (Etter, 2016, p. 19) and available on most text editors. Specifically, Etter (2016) described Markdown as the "cleanest syntax" (p. 21) for lightweight markup languages. Lastly, documentation written using these languages is usually associated with a version control system, which serves various benefits that will be described later on.
 
-Moreover, if you are not familiar with Markdown, I have listed Markdown tutorials under the [More Resources](#More-Resources) section. This includes basic Markdown and GitHub Flavoured Markdown as we will need it when using Github Pages to host the resume.
+Moreover, if you are not familiar with Markdown, I have listed Markdown tutorials under the [More Resources](#More-Resources) section. This includes basic Markdown and GitHub Flavoured Markdown as we will need it when using GitHub Pages to host the resume.
 
 ### Visual Studio Code
 
