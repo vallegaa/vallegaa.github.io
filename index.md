@@ -37,12 +37,15 @@ GitHub: https://github.com/alejovallega
 University of Manitoba, GPA: 3.95/4.50
 - **Awards:**
     - Walter and Maria Schroeder Foundation: Full Scholarship
+
     - UM Hogg Centennial Entrance Scholarship: Admission average 85%+
 
 ## Skills
 
 **Languages:** PHP, Python, Javascript, Typescript, GraphQL, Java, HTML, CSS, C and C++\
+
 **Frameworks/Libraries:** Laravel, React, Vue.js, Bootstrap, Firebase, Pandas, Matplotlib, NumPy, Scikit-learn, and TensorFlow\
+
 **Technologies:** Docker, Kubernetes, MongoDB, PostgreSQL, Git, GitLab, Jira, Postman, and Jupyter
 
 ## Projects
