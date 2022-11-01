@@ -8,7 +8,7 @@ GitHub: https://github.com/alejovallega
 ## Work Experience
 
 - **Morgan Stanley** &emsp; Montreal, QC | May 2022- Sept 2022\
- **Technologt Summer Analyst**
+ **Technology Summer Analyst**
     - Built an automated Python data analysis tool that extracts and analyzes firewall log patterns in real-time which assists in creating new rules to further secure one of their firewalls.
 
     - Developed a Python GUI that automates multiple data source queries, data cleaning, and data visualization to provide easy access for risk officers to view their data in a single place.
