@@ -8,7 +8,7 @@ computer science students coming into the software industry. These general princ
 ## Prerequisites:
 
 ### Resume
-To begin with, a resume formatted in Markdown is needed. Markdown is a lightweight markup language useful when creating static sites. These types of languages allow for "the natural separation of content and style" (Etter, 2016, p. 20). Furthermore, there is no steep learning curve with these languages as they are "human-readable" (Etter, 2016, p. 19) and available on most text editors. Specifically, Etter (2016) described Markdown as the "cleanest syntax" (p. 21) for lightweight markup languages. Lastly, documentation written using these languages is usually associated with a version control system, which serves various benefits that will be described later on.
+To begin with, a resume formatted in Markdown is needed. Markdown is a lightweight markup language useful when creating static sites and naturally separates content and style. Furthermore, there is no steep learning curve with these languages as they are human-readable and available on most text editors. Specifically, Etter describes Markdown as the "cleanest syntax"  for lightweight markup languages. Lastly, documentation written using these languages is usually associated with a version control system, which serves various benefits that will be described later on.
 
 Moreover, if you are not familiar with Markdown, I have listed Markdown tutorials under the [More Resources](#More-Resources) section. This includes basic Markdown and GitHub Flavoured Markdown as we will need it when using GitHub Pages to host the resume.
 
@@ -37,11 +37,11 @@ I recommend using Visual Studio Code as a Markdown editor as it is lightweight a
 
 ### GitHub Pages Setup
 
-Hosting our resume over a static site hosting service such as GitHub Pages offers speed and simplicity (Etter, 2016, p. 26). Firstly, it gives you the power to correct content errors instantaneously and allows your content to be synchronized with the latest software release (Etter, 2016, p. 26). Moreover, all that is needed is the contents of your resume written in Markdown and a static site generator. It removes all the obstacles of server-side application dependencies, databases, and any installations (Etter, 2016, p. 26).
+Hosting our resume over a static site hosting service such as GitHub Pages offers speed and simplicity. Firstly, it gives you the power to correct content errors instantaneously and allows your content to be synchronized with the latest software release. Moreover, all that is needed is the contents of your resume written in Markdown and a static site generator. As Etter describes, it removes all the obstacles of server-side application dependencies, databases, and any installations.
 
 GitHub Pages is chosen as our hosting service since Jekyll offers built-in support for it which makes it easier for us to customize our content, including adding a theme. 
 
-We will be using Git as a version control system given that it is used by GitHub Pages. Version control systems allow for collaboration as everyone can contribute to our documentation simultaneously. This is important as contributing is "one of the tenets of modern technical writing" (Etter, 2016, p. 19). Furthermore, Etter (2016) describes Git as amazing for tracking changes where we can see and merge related changes as well as view file logs and track the individual with problematic content (p. 38). Lastly, the most important reason to use Git or version control systems as a whole is that developers prefer them (Etter, 2016, p. 23). For instance, developers might feel reluctant to collaborate with technical writers if their preferred method is sending files over email.
+We will be using Git as a version control system given that it is used by GitHub Pages. Version control systems allow for collaboration as everyone can contribute to our documentation simultaneously. This is important as contributing is "one of the tenets of modern technical writing" stated by Etter. Furthermore, Git allows for tracking changes where we can see and merge related changes as well as view file logs and track the individual with problematic content. Lastly, Etter mentions the most important reason to use Git or version control systems as a whole is that developers prefer them. For instance, developers might feel reluctant to collaborate with technical writers if their preferred method is sending files over email.
 
 Some basic Git operations we will be using are `clone`, `add`, `commit`, and `push`. A description of each operation can be found on git's website found in the  [More Resources](#More-Resources) section.
 
@@ -117,7 +117,7 @@ GitHub Pages searches for an entry file (the default page) for the site which is
   
 #### Add a Theme with Jekyll to your Local Repository
 
-Static site generators such as Jekyll eliminates manually configuring and customizing the contents of your site. For instance, all a static generator needs are the content (lightweight markup) and a theme (templated HTML and CSS) and processes everything into a functional site (Etter, 2016, p. 26). 
+Static site generators such as Jekyll eliminates manually configuring and customizing the contents of your site. For instance, all a static generator needs are the content written in a lightweight markup language and a theme template and processes everything into a functional site. 
 
 Jekyll offers various configuration options when building your site such as themes, styling with CSS, and many others. This can all be done in a configuration file named `_config.yml`
 
@@ -149,6 +149,9 @@ Steps 1-5 are shown in the demo below:
 
 - [Git Operations](https://git-scm.com/docs/git)
 
+- [Modern Technical Writing by Andrew Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+
+
 ## Authors and Acknowledgments:
 
 - **Prabal Mendiratta**: Editor 
@@ -160,7 +163,7 @@ Steps 1-5 are shown in the demo below:
 
 1. "Why is Markdown better than a word processor?"
    
-   - Firstly, documentation typically has a lifespan and "needs to be kept in version control" (Etter, 2016, p. 20). Lightweight markup languages such as Markdown are better suited for version control as opposed to a word processor as they are commonly used to be "consumed and discarded" (Etter, 2016, p. 20) and lacks version control. Furthermore, Markdown is free to use and can be written in most text editors. Whereas, many word processors require some sort of fee.
+   - Documentation belongs in a version control system as it typically has a lifespan. Lightweight markup languages such as Markdown are better suited for version control as opposed to a word processor as they are commonly used to be "consumed and discarded" described by Etter. Furthermore, Markdown is free to use and can be written in most text editors. Whereas, many word processors require some sort of fee.
 
 2. "Why is my resume not showing up?"
    - Ensure that your site's most recent build and deployment workflow run passed successfully by going to the Action tab on your repository. Common errors are listed below:
